@@ -33,7 +33,8 @@ public class SwitchStatement {
             case 7:
                 namaHari = "Sabtu";
                 break;
-
+            System.out.println("Masukkan nomor hari diantara 1 - 7");
+            System.out.println(0);
         }
     }
 }
